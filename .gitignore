@@ -1,0 +1,13 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Chroma vector DB
+chroma_langchain_db/
+
+# Ignore OS or editor files
+.DS_Store
+*.log
